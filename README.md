@@ -1,6 +1,6 @@
 # The Tann Mann Foundation - Evaluation Task
 
-This repository contains the completed evaluation task for the Frontend Developer Internship at **The Tann Mann Foundation**. The project is a full-stack web application designed to collect user details (Name, Phone Number, Email) via a beautiful, modern UI, and securely store them in a PostgreSQL database.
+This repository contains the completed evaluation task for the Full Stack Developer Internship at **The Tann Mann Foundation**. The project is a full-stack web application designed to collect user details (Name, Phone Number, Email) via a beautiful, modern UI, and securely store them in a PostgreSQL database.
 
 ## 🚀 Tech Stack
 
