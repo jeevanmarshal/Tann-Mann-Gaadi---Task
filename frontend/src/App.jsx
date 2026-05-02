@@ -52,7 +52,7 @@ function App() {
               id="name"
               name="name"
               className="form-input"
-              placeholder="Your Name"
+              placeholder="Jeevan Marshal"
               value={formData.name}
               onChange={handleChange}
               required
